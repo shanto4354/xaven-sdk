@@ -1,0 +1,19 @@
+{
+  "name": "xaven-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "npm run build --workspaces",
+    "test": "npm run test --workspaces",
+    "lint": "npm run lint --workspaces"
+  },
+  "keywords": [
+    "xaven",
+    "xaven-sdk"
+  ],
+  "author": "Xaven AI Labs",
+  "license": "MIT"
+}
