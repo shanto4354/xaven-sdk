@@ -21,16 +21,7 @@
 4. **Context-Aware Caching**  
    - Reduce redundant calls with integrated in-memory caching or pluggable Redis layers.  
    - Context-based strategy: store correlation IDs, user sessions, or ephemeral queries for multi-step purchases.
-
----
-
-## Installation
-
-```bash
-npm install xaven-sdk
-```
-
----
+   
 
 ## Usage
 
