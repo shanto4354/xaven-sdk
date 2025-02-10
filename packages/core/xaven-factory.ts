@@ -177,3 +177,5 @@ const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
     logger.info(`Xaven Factory service started on port ${PORT}`);
 });
+
+export { app }
