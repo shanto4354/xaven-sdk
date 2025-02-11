@@ -1,4 +1,5 @@
-# Xaven SDK &middot; ![npm](https://img.shields.io/badge/npm-1.0.0-blue) ![License](https://img.shields.io/badge/license-MIT-green)
+# Xaven SDK &middot; ![License](https://img.shields.io/badge/license-MIT-green)
+
 
 **Xaven SDK** is a TypeScript library that streamlines **AI-driven e-commerce** recommendations by **optimizing user purchases** across multiple partner platforms. Through a combination of **machine learning inference**, **concurrency-limited fetching**, and **price-shipping balancing**, developers can embed a optimized shopping experience into their applications.
 
